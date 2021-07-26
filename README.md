@@ -15,7 +15,7 @@ XDのデザインカンプからLPの模写コーディングを行いました�
 
 ### 使用言語
 
-HTML / CSS(SCSS) / jQuery / PHP
+HTML / CSS(SCSS) / jQuery
 
 ### 使用プラグイン
 
